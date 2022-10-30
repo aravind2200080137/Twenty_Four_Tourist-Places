@@ -1,0 +1,19 @@
+.nav a{
+    color:white;
+    padding: 1px;
+    font-size: 150%;
+    margin: 1%;
+    text-decoration: none;
+    
+}
+.nav{
+    border: solid;
+    padding: 2px;
+    background-color:black;
+     
+}
+ .logo {
+    margin-left:90%;
+    margin-bottom: 2%;
+     
+ }
